@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppIMC", "ConsoleAppIMC\ConsoleAppIMC.csproj", "{4688F1AD-7429-49B8-899C-35035E96C7F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{CCF44496-73D6-4725-83F9-63075794067C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4688F1AD-7429-49B8-899C-35035E96C7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4688F1AD-7429-49B8-899C-35035E96C7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4688F1AD-7429-49B8-899C-35035E96C7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4688F1AD-7429-49B8-899C-35035E96C7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF44496-73D6-4725-83F9-63075794067C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF44496-73D6-4725-83F9-63075794067C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF44496-73D6-4725-83F9-63075794067C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF44496-73D6-4725-83F9-63075794067C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {636ABC64-9266-4515-A926-2172DE710A0C}
+	EndGlobalSection
+EndGlobal
